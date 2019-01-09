@@ -1,0 +1,9 @@
+img {
+    height:auto;
+    max-width:100%;
+    padding:2px;
+}
+
+.no-bullets { 
+    list-style-type:none;
+}
